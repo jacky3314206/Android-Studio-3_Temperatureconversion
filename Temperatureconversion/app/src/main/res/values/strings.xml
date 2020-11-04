@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">溫度轉換器 (No28) </string>
+    <string name="TextView">顯示溫度:</string>
+    <string name="RadioButton">攝氏</string>
+    <string name="RadioButton1">華氏</string>
+    <string name="charC">˚C</string>
+    <string name="charF">˚F</string>
+</resources>
